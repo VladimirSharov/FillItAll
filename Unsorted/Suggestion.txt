@@ -1,0 +1,5 @@
+{
+  Array, each element of array is array with (fixed amount of types [0],[7],[1]/or extra for type ['red'][7],['socks'][1]).
+  Function add new entity, search for best composition given Number of elements and desired sum for each type like (3, t=[2][13][4]), 
+  ?priority, less or more than target like p=[-1],[-1],[1],[1],[-1] for example -1 is less and 1 is more
+}
